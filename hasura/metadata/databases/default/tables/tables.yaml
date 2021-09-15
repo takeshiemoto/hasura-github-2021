@@ -1,2 +1,3 @@
 - "!include public_books.yaml"
+- "!include public_staffs.yaml"
 - "!include public_users.yaml"
